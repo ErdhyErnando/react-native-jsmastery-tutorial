@@ -8,7 +8,6 @@ import {
   Popularjobs,
   ScreenHeaderBtn,
   Welcome,
-  welcome,
 } from "../components";
 
 const Home = () => {
